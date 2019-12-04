@@ -1,0 +1,13 @@
+
+.active-red{
+   color:red;
+}
+
+.menu {
+   display: flex;
+}
+
+.menu li {
+   padding: 0 20px;
+   list-style: none;
+}
